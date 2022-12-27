@@ -29,7 +29,10 @@ If you want to choose any customization settings (example: background color, rec
 <br> Step 4: Change the color with yours
 <br> <br> -(3): *Change the police of the text* 
 <br> Step 1: Go in "style.css"
-<br> COMING SOON
+<br> Step 2: Search for a police available in html
+<br> Step 3: Search for “font-family:”  
+ Step 4:  Replace the “Arial black” with your own police of text
+<br>
 <br> <br>
 Storcale-OverBeaver
 
