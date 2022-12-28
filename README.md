@@ -1,5 +1,5 @@
 # Website-sample
-[Check it out](https://website-sample.storcale.repl.co/)
+[Check it out](https://website-template.storcale.repl.co/)
 <br>
 A sample to create a website already organized and themed.
 <br>
