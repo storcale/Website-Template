@@ -11,7 +11,7 @@ I hope this will be useful for you.
 <br>
 ⚠️ *WARNING* ⚠️
 <br>
-** If you want to choose any customization settings (example: background color, rectangle width and height, police of text, button color, etc) PLEASE FOLLOW THESE STEPS **
+**If you want to choose any customization settings (example: background color, rectangle width and height, police of text, button color, etc) PLEASE FOLLOW THESE STEPS**
 <br>
 -(1): *Customize the grey rectangle*
 <br> - Change its color:
